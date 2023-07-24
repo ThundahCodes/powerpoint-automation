@@ -73,7 +73,6 @@ def datenSammel(lieferungDatum, ladeZeit, lieferteFirma, landFirma, rechnerAdd):
 
     # Save the Program 
     pres.save(fr'')
-    #os.startfile(fr"T:\WARENAUSGANG-DISPLAY\{rechnerAdd}\Gate.pptx")
 
 #Create a GUI to insert the data into the presentation via the aforedefined Function
 def main():
