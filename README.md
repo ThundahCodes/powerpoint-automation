@@ -20,7 +20,7 @@ This Python script automates the generation of PowerPoint presentations for trac
 **Note:** The script will automatically overwrite the existing presentation with the same name if one is found in the specified directory.
 
 **Requirements:**
-- Python 3.x
+- Python 3.10
 - PySimpleGUI
 - python-pptx
 
